@@ -18,7 +18,7 @@ Site photos are welcome as a next step; the README currently shows application s
 - Location context, including whether a photographed gate or parking area has verified access conditions.
 - Useful alt text describing the scene.
 
-Remove private information and precise location metadata when it is unnecessary. Do not upload credentials, faces without permission, vehicle plates or personal notes. A photo of a gate or track alone does not verify legal access. Avoid AI-generated scenery presented as a real place.
+Remove private information and precise location metadata when it is unnecessary. Do not upload credentials, faces without permission, vehicle plates or personal notes. A photo of a gate or track alone does not verify legal access. Do not present fabricated scenery as a real place.
 
 ## Development status
 
